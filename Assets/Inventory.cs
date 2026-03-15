@@ -6,7 +6,7 @@ public class Inventory : MonoBehaviour
 
     public PlayerMovement playerMovement;
 
-// aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
 
     public GameObject canvasInventory;
 
